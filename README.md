@@ -1,6 +1,6 @@
 # Data-Science
-This is data science projects repository 
-<h1>Table of contents</h1>
+This is data science projects repository containing different notebooks
+<h1>Notebooks</h1>
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ul>
