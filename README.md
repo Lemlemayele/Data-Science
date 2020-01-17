@@ -6,9 +6,17 @@ This is data science projects repository
     <ul>
         <li>Finance exploratory data analysis</li>
         <li>Human cancer cell classification with SVM</li>
+         <li>The Battle of neighborhoods: Wikipedia scrapped data
+             <ul>
+                 <li>Four square API</li>
+                 <li>geospatial API</li>
+             </ul>
+        </li>
 <!--         <li></li>
         <li></li> -->
 </ul>
 </div>
 <br>
 <hr>
+
+
